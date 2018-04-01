@@ -133,8 +133,7 @@ PRODUCT_PACKAGES += \
     ExactCalculator \
     LockClock \
     Trebuchet \
-    WallpaperPicker \
-    LOSCoins
+    WallpaperPicker
 
 # Exchange support
 PRODUCT_PACKAGES += \
